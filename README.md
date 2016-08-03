@@ -1,5 +1,7 @@
 # HeyUpdate For Alfred
 
+![HeyUpdate Alfred Workflow Screenshot](https://cloud.githubusercontent.com/assets/53005/17376088/ed5f046e-5981-11e6-985f-3ab08e2939f2.png)
+
 ## Summary
 
 This workflow uses the HeyUpdate API to quickly send updates to your [HeyUpdate.com](http://heyupdate.com) account.
